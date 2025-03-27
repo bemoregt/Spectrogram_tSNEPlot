@@ -1,0 +1,10 @@
+numpy
+matplotlib
+librosa
+scikit-learn
+pygame
+soundfile
+torch
+torchvision
+Pillow
+praat-parselmouth
